@@ -20,4 +20,4 @@ This project controls a fan based on temperature readings using an ESP32.
 3. Commit your changes to a new branch named after you.
 4. Push the changes and create a pull request with a clear description of what you modified.
 
-##NB: if they dont have a fan, you can use an LED to indicate when the fan would be on.
+## NB: if you dont have a fan, you can use an LED to indicate when the fan would be on.
